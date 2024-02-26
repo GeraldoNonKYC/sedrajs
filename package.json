@@ -1,0 +1,58 @@
+{
+  "_args": [
+    [
+      "sedrajs@git+ssh://git@github.com/mrmikeo/Sedrajs.git#d6fdeeb5921e1babaeade6d0fc2384c997cfd539",
+      "/home/backend/walletEngine"
+    ]
+  ],
+  "_from": "sedrajs@git+https://github.com/mrmikeo/Sedrajs.git",
+  "_id": "sedrajs@git+ssh://git@github.com/mrmikeo/Sedrajs.git#d6fdeeb5921e1babaeade6d0fc2384c997cfd539",
+  "_inBundle": false,
+  "_integrity": "sha512-CVPgWIRlI9zHj3IVUpd0LIyDYNXGnMhPxqk9W+rbBXnpVpivPC2XH2HnIKODVTSFBYiANIB8X1bYsti08GL0sQ==",
+  "_location": "/sedrajs",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "git",
+    "raw": "sedrajs@git+ssh://git@github.com/mrmikeo/Sedrajs.git#d6fdeeb5921e1babaeade6d0fc2384c997cfd539",
+    "name": "sedrajs",
+    "escapedName": "sedrajs",
+    "rawSpec": "git+ssh://git@github.com/mrmikeo/Sedrajs.git#d6fdeeb5921e1babaeade6d0fc2384c997cfd539",
+    "saveSpec": "git+ssh://git@github.com/mrmikeo/Sedrajs.git#d6fdeeb5921e1babaeade6d0fc2384c997cfd539",
+    "fetchSpec": "ssh://git@github.com/mrmikeo/Sedrajs.git",
+    "gitCommittish": "d6fdeeb5921e1babaeade6d0fc2384c997cfd539"
+  },
+  "_requiredBy": [
+    "/"
+  ],
+  "_resolved": "git+ssh://git@github.com/mrmikeo/Sedrajs.git#d6fdeeb5921e1babaeade6d0fc2384c997cfd539",
+  "_spec": "git+ssh://git@github.com/mrmikeo/Sedrajs.git#d6fdeeb5921e1babaeade6d0fc2384c997cfd539",
+  "_where": "/home/backend/walletEngine",
+  "author": {
+    "name": "KaffinPX"
+  },
+  "bugs": {
+    "url": "https://github.com/GateKVite/Sedrajs/issues"
+  },
+  "dependencies": {
+    "@grpc/grpc-js": "^1.6.7",
+    "@grpc/proto-loader": "^0.6.13"
+  },
+  "description": "Simple Kaspa library for interacting with Kaspad & Kaspawalletd gRPC",
+  "homepage": "https://github.com/GateKVite/Sedrajs#readme",
+  "keywords": [
+    "kaspa",
+    "sedrajs",
+    "cryptocurrency"
+  ],
+  "license": "GPL-2.0",
+  "main": "index.js",
+  "name": "sedrajs",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/GateKVite/Sedrajs.git"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "version": "2.0.3"
+}
